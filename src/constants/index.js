@@ -23,23 +23,23 @@ export const features = [
     {
         id: "feature-1",
         icon: star,
-        title: "Rewards",
+        title: "Recompenzas",
         content:
-            "The best credit cards offer some tantalizing combinations of promotions and prizes",
+            "Participa de descuentos y sorteos mensuales que te sorprenderan.",
     },
     {
         id: "feature-2",
         icon: shield,
-        title: "100% Secured",
+        title: "100% Seguro",
         content:
-            "We take proactive steps make sure your information and transactions are secure.",
+            "Nosotros tomamos pasos seguros para que su viaje sea seguro.",
     },
     {
         id: "feature-3",
         icon: send,
-        title: "Balance Transfer",
+        title: "Pagos por medios electronicos.",
         content:
-            "A balance transfer credit card can save you a lot of money in interest charges.",
+            "Se pueden realizar pagos por medios electronicos sin ningun interes.",
     },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
     {
         id: "feedback-1",
         content:
-            "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-        name: "Herman Jensen",
-        title: "Founder & Leader",
+            "Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem.",
+        name: "Topo Topito",
+        title: "Topo",
         img: people01,
     },
     {
         id: "feedback-2",
         content:
-            "Money makes your life easier. If you're lucky to have it, you're lucky.",
-        name: "Steve Mark",
-        title: "Founder & Leader",
+            "Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem.",
+        name: "Steve Macana",
+        title: "Fundador",
         img: people02,
     },
     {
         id: "feedback-3",
         content:
-            "It is usually people in the money business, finance, and international trade that are really rich.",
-        name: "Kenn Gallagher",
-        title: "Founder & Leader",
+            "Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem.",
+        name: "Ken Bart Simpson",
+        title: "El risas",
         img: people03,
     },
 ];
@@ -73,82 +73,82 @@ export const feedback = [
 export const stats = [
     {
         id: "stats-1",
-        title: "User Active",
-        value: "3800+",
+        title: "Taxis Activos",
+        value: "40+",
     },
     {
         id: "stats-2",
-        title: "Trusted by Company",
+        title: "Pasajeros Contentos",
         value: "230+",
     },
     {
         id: "stats-3",
-        title: "Transaction",
-        value: "$230M+",
+        title: "Transacciones",
+        value: "500+",
     },
 ];
 
 export const footerLinks = [
     {
-        title: "Useful Links",
+        title: "Links de interes",
         links: [
             {
-                name: "Content",
-                link: "https://www.hoobank.com/content/",
+                name: "Contenido",
+                link: "https://www.taxis.com/content/",
             },
             {
-                name: "How it Works",
-                link: "https://www.hoobank.com/how-it-works/",
+                name: "Como trabajamos",
+                link: "https://www.taxis.com/how-it-works/",
             },
             {
-                name: "Create",
-                link: "https://www.hoobank.com/create/",
+                name: "Quiero ser parte",
+                link: "https://www.taxis.com/create/",
             },
             {
-                name: "Explore",
-                link: "https://www.hoobank.com/explore/",
+                name: "Quiero saber mas",
+                link: "https://www.taxis.com/explore/",
             },
             {
-                name: "Terms & Services",
-                link: "https://www.hoobank.com/terms-and-services/",
+                name: "Terminos & Servicios",
+                link: "https://www.taxis.com/terms-and-services/",
             },
         ],
     },
     {
-        title: "Community",
+        title: "Comunidad",
         links: [
             {
-                name: "Help Center",
-                link: "https://www.hoobank.com/help-center/",
+                name: "Centro de ayuda",
+                link: "https://www.taxis.com/help-center/",
             },
             {
-                name: "Partners",
-                link: "https://www.hoobank.com/partners/",
+                name: "Socios",
+                link: "https://www.taxis.com/partners/",
             },
             {
-                name: "Suggestions",
-                link: "https://www.hoobank.com/suggestions/",
+                name: "Sugerencias",
+                link: "https://www.taxis.com/suggestions/",
             },
             {
                 name: "Blog",
-                link: "https://www.hoobank.com/blog/",
+                link: "https://www.taxis.com/blog/",
             },
             {
-                name: "Newsletters",
-                link: "https://www.hoobank.com/newsletters/",
+                name: "Novedades",
+                link: "https://www.taxis.com/newsletters/",
             },
         ],
     },
     {
-        title: "Partner",
+        title: "Socios",
         links: [
             {
-                name: "Our Partner",
-                link: "https://www.hoobank.com/our-partner/",
+                name: "Nuestros socios",
+                link: "https://www.taxis.com/our-partner/",
             },
             {
-                name: "Become a Partner",
-                link: "https://www.hoobank.com/become-a-partner/",
+                name: "Unete a nosotros",
+                link: "https://www.taxis.com/become-a-partner/",
             },
         ],
     },
