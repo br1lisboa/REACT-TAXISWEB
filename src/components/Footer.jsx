@@ -7,8 +7,9 @@ const Footer = () => (
     <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
       <div className='flex-[1] flex flex-col justify-start mr-10'>
       
-        <img src={logo} alt="taxis-app logo" className='min-w-[266px] h-[72px] object-contain' />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>Una nueva manera de tomar viajes de manera facil y segura.</p>
+        {/* <img src={logo} alt="taxis-app logo" className='min-w-[266px] h-[72px] object-contain' /> */}
+        <h1 className='font-poppins font-semibold text-white text-[42px] ml-10 mt-5 min-w-[300px] h-[72px]'>TAXIS APP</h1>
+        <p className={`${styles.paragraph} mt-4 max-w-[312px] text-center`}>Una nueva manera de tomar viajes de manera facil y segura.</p>
       
       </div>
 
